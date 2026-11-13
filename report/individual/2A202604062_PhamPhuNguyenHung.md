@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — HoVaTen-MSSV
+# Báo cáo cá nhân — PhamPhuNguyenHung-2A202604062
 
 Đổi tên file theo quy tắc `MSSV_HoTen.md`. Ví dụ: `20241234_NguyenVanAn.md`.
 
@@ -6,11 +6,11 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
+- Họ tên: Phạm Phú Nguyễn Hưng
+- MSSV: 2A202604062
+- Mã đề (A/B/C): B
 - Email:
-- Link repository:
+- Link repository: https://github.com/phamphunguyenhung/K5-L2B-DAY05-PhamPhuNguyenHung-2A202604062-MOTTracking
 - Giờ bắt đầu:
 - Giờ kết thúc:
 
